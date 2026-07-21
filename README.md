@@ -244,9 +244,9 @@ Open index.html in your browser
 
 **Jayesh Ingole**
 
-📧 Email: your-email@example.com
+📧 Email: jayeshingole2489@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: www.linkedin.com/in/jayesh-ingole-94933b251
 
 🐙 GitHub: https://github.com/jayeshingole2489-ui
 
